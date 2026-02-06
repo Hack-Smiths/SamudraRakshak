@@ -1,0 +1,7 @@
+.alert.high { border-left: 6px solid red; }
+.alert.medium { border-left: 6px solid orange; }
+.alert.low { border-left: 6px solid green; }
+
+.alert:hover {
+  transform: scale(1.02);
+}
