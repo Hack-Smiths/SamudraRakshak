@@ -10,7 +10,9 @@ SamudraRakshak is a resilient marine safety platform designed to **save fisherme
 [Google Drive – SamudraRakshak Demo](https://drive.google.com/file/d/1IU3kAFq7jPZrLyYSojlazgDG-dJscLIU/view?usp=sharing)
 
 ---
-
+## Prototype
+### Website: https://ocean-guardian-lite.lovable.app/
+### Website Repo:https://github.com/SOMESHWAR-11/ocean-guardian-ai
 ## 🖼️ System Overview & UI Snapshots
 
 ### 1️⃣ End-to-End Marine Safety Flow
